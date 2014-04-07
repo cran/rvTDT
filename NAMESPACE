@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(CompQuadForm)
+# functions
+export(rvTDT)

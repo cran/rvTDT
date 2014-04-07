@@ -1,0 +1,10 @@
+54fa4caab3d7c6093557729ecef79198 *DESCRIPTION
+ed8166d2a3b812e572c689047cb471ae *NAMESPACE
+c0764be8263840ed33e48df47b7eff6f *R/TrendWeights.R
+96750f9f4fb07296340e948f0228e3b9 *R/pop_weight_TDT.R
+7f8d76f4d216e98e56d3f1c4215984ac *R/rvTDT.R
+f166beccd86ddfc134fe97cd2ecd0905 *data/rvTDT.example.RData
+eb58af9ec16acda365131920c9904584 *man/TrendWeights.Rd
+087a50c7bcc93e90b15945961fece85f *man/pop_weight_TDT.Rd
+48134bdcde676a77ad98ec7223e869ba *man/rvTDT.Rd
+ec179b80578004811bc17e1c76901c68 *man/rvTDT.example.Rd
